@@ -1,4 +1,4 @@
-# Walmart-s_Retail_insights_optimization
+# Walmart's_Retail_insights_optimization
 
 This project focuses on extracting actionable business insights from Walmart’s sales data using advanced MySQL queries. Key highlights include:
 
